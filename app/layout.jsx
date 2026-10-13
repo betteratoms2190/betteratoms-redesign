@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import Cookie from '@/components/Cookie';
 import { SITE_URL } from '@/components/site';
 const display = Fredoka({ subsets: ['latin'], weight: ['500', '600', '700'], variable: '--font-display', display: 'swap' });
-const body = Nunito({ subsets: ['latin'], weight: ['400', '700'], variable: '--font-body', display: 'swap' });
+const body = Nunito({ subsets: ['latin'], weight: ['400', '700'], variable: '--font-body', display: 'optional' });
 export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: 'Better Atoms', template: '%s | Better Atoms' },

@@ -6,7 +6,7 @@ const dict = [['BIO-09', 'CAT', '"Self-Vibrating Fur Unit"', '🐱'], ['ERR-404'
 const crew = [['Official ID', 'Generate your authorized Commander ID card for printing.', '/img/official-id.webp'], ['Sticker Pack', 'High-resolution assets for your gear.', '/img/stickers.webp'], ['Monthly Experiment', 'Blueprint #001: Anti-Gravity Toaster Schematics.', '/img/experiment.webp']];
 export default function Books() {
   return (<>
-    <PageHero eyebrow="SPACE EXPLORER'S HANDBOOK" title={<>PADDO<br /><span className="text-butter">The Trial of Curiosity</span></>} image="/img/book-cover.webp" imageAlt="Book Cover: Paddo – The Trial of Curiosity">
+    <PageHero eyebrow="SPACE EXPLORER'S HANDBOOK" title={<>PADDO<br /><span className="text-butter">The Trial of Curiosity</span></>} image="/img/book-cover-sm.webp" imageAlt="Book Cover: Paddo – The Trial of Curiosity">
       <p>Join a grumpy robot and a messy alien on a crash course through physics.</p>
       <p className="mt-3 font-display text-2xl text-bubble">“Messy is good. Messy is how we learn.”</p>
       <p className="mt-6 font-display font-semibold tracking-wide text-white/80">SELECT LAUNCH PLATFORM <span className="ml-2 rounded-full bg-lime/20 px-3 py-1 text-lime">STATUS ● LIVE</span></p>

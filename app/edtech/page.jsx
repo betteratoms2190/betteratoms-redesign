@@ -7,7 +7,7 @@ const missions = [['Access Matter Database', '+10 XP'], ['Land Safely (Any Plane
 const stats = [['⌬', 'MATTER DATABASE', '118'], ['◈', 'ARCHIVES', '12'], ['🪐', 'PLANETS', '9']];
 export default function EdTech() {
   return (<>
-    <PageHero eyebrow="BA ACADEMY · SYS.VER.4.2" title={<>Better Atoms:<br /><span className="text-sky">Space Academy</span></>} image="/img/ebook1.webp" imageAlt="Paddo standing in a futuristic space colony">
+    <PageHero eyebrow="BA ACADEMY · SYS.VER.4.2" title={<>Better Atoms:<br /><span className="text-sky">Space Academy</span></>} image="/img/ebook1-sm.webp" imageAlt="Paddo standing in a futuristic space colony">
       <p className="font-display text-2xl text-butter">INCOMING TRANSMISSION — WELCOME COMMANDER</p>
       <p className="mt-3">Sector 7 sensors indicate a fluctuation in the reactor core. Immediate manual calibration required.</p>
       <p className="mt-2 font-mono text-bubble">&gt; STATUS: CRITICAL</p>

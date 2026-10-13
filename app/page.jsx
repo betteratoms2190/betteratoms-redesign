@@ -100,7 +100,7 @@ export default function Home() {
         <Reveal className="mx-auto max-w-5xl rounded-[2.75rem] sky-bg text-white p-10 md:p-14 grid gap-8 md:grid-cols-[1.4fr_1fr] items-center shadow-soft overflow-hidden relative">
           <div>
             <h2 className="text-3xl md:text-4xl font-bold">Just Launched 🚀 Better Atoms: Paddo and the Trial of Curiosity 📘</h2>
-            <div className="mt-6 flex flex-wrap gap-3"><a href={AMAZON_LAUNCH} target="_blank" rel="noopener" className="clay-btn">Click Here</a><Link href="/books/" className="clay-btn ghost">See Books</Link></div>
+            <div className="mt-6 flex flex-wrap gap-3"><a href={AMAZON_LAUNCH} target="_blank" rel="noopener" className="clay-btn" aria-label="Click Here – get Better Atoms: Paddo and the Trial of Curiosity on Amazon">Click Here – Get the Book</a><Link href="/books/" className="clay-btn ghost">See Books</Link></div>
           </div>
           <img src="/img/book-cover.webp" alt="Book cover: Paddo – The Trial of Curiosity, The Space Explorer's Handbook, by Aman Singh" width="300" height="450" loading="lazy" className="w-48 mx-auto rounded-2xl shadow-soft rotate-3 floaty" />
         </Reveal>

@@ -7,7 +7,7 @@ const menu = [['🍔', 'Jupiter Burger', '25', '3 patties, moon cheese, gravity 
 const stats = [['🚧', '42', 'LOCATIONS SCOUTED'], ['🚗', '∞', 'SILK BOARD TRAFFIC'], ['💸', '1M', 'FUNDS MISSING (Paddo₹)'], ['🤝', '0', 'LOCATIONS FINALIZED']];
 export default function Restaurant() {
   return (<>
-    <PageHero eyebrow="🪐 BETTER ATOMS · Project: Bengaluru" title={<>SPACE &amp; TIME<br /><span className="text-butter">RESTAURANT</span></>} image="/img/paddo.webp" imageAlt="Paddo the green alien waving in front of a space colony">
+    <PageHero eyebrow="🪐 BETTER ATOMS · Project: Bengaluru" title={<>SPACE &amp; TIME<br /><span className="text-butter">RESTAURANT</span></>} image="/img/paddo-sm.webp" imageAlt="Paddo the green alien waving in front of a space colony">
       <p className="flex flex-wrap gap-2 text-sm font-bold"><span className="rounded-full bg-white/15 px-3 py-1">⚠️ GRAVITY: ON</span><span className="rounded-full bg-white/15 px-3 py-1">🎉 PARTY PROTOCOL</span><span className="rounded-full bg-bubble/30 px-3 py-1">🎈 KIDS EAT FREE ON MARS-DAYS!</span></p>
       <p className="mt-4">We are looking for a place to crash (literally) in Bangalore. But first, we need to find Paddo—he has the startup capital!</p>
       <div className="mt-6 flex flex-wrap gap-3"><a href="#suggest" className="clay-btn">SUGGEST LOCATION</a><a href="#mission" className="clay-btn ghost">START SCAN ⬇</a></div>
