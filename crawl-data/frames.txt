@@ -1,0 +1,342 @@
+===== /
+STEM EdTech
+
+Exploring the Universe, one scale at a time. We are a premier digital institution dedicated to visualizing the cosmos and making complex scientific data accessible, immersive, and beautiful.
+
+🔭
+Cosmic Research
+Daily updates from the frontiers of astronomy.
+🧬
+Micro to Macro
+Visualizing scale from DNA to Galaxies.
+🚀
+Future Tech
+Tracking the latest in aerospace propulsion.
+COSMIC INTELLIGENCE FEED
+LIVE UPDATES
+Signal Interrupted. Unable to fetch feed.
+LINKS []
+IMGS []
+INPUTS []
+===== /books
+SPACE EXPLORER'S HANDBOOK
+PADDO
+The Trial of Curiosity
+
+Join a grumpy robot and a messy alien on a crash course through physics.
+"Messy is good. Messy is how we learn."
+
+SELECT LAUNCH PLATFORM
+GET IT ON
+Kindle
+GET IT ON
+Play Store
+STATUS
+● LIVE
+Alien Dictionary // DECODED
+BIO-09
+CAT
+
+"Self-Vibrating Fur Unit"
+
+ERR-404
+SNEEZING
+
+"Face Explosion Protocol"
+
+HEAT-X
+TOASTER
+
+"Bread Tanner Device"
+
+EDU-V1
+SCHOOL
+
+"Data Download Center"
+
+:: INCOMING TRANSMISSION ::
+Paddo & The Song of the Black Hole
+
+"It sounds like a Whale, but it is coming from a Black Hole." Venture into the Andromeda Sector where gravity goes wild, time slows down, and music is the key to unlocking the universe.
+
+LOADING DATA...
+Join The Crew
+
+Access restricted files, download sticker packs, and view Paddo's latest experiments.
+
+Official ID
+
+Generate your authorized Commander ID card for printing.
+
+ACCESS FILE
+›
+Sticker Pack
+
+High-resolution assets for your gear.
+
+ACCESS FILE
+›
+Monthly Experiment
+
+Blueprint #001: Anti-Gravity Toaster Schematics.
+
+ACCESS FILE
+›
+HOLOGRAM_FEED_V4.2
+X: 104.2 Y: 33.9 Z: 0.0
+
+© 2026 BETTER ATOMS TECHNOLOGIES LLP
+SYSTEM ID: ACJ-7704 // END TRANSMISSION
+
+SPARK_AI:
+"SYSTEMS: OPTIMAL"
+×
+LINKS [['GET IT ON\nKindle', 'https://amzn.in/d/0diFITDC'], ['GET IT ON\nPlay Store', 'https://play.google.com/store/books/details/Aman_Singh_Better_Atoms_Paddo_and_the_Trial_of_Cur?id=vMu7EQAAQBAJ']]
+IMGS [['https://m.media-amazon.com/images/I/81ZHQhUSfjL._SL1500_.jpg', 'Book Cover'], ['https://img1.wsimg.com/isteam/ip/928024ef-0d3b-4971-bb3e-704f4527d899/better%20atoms%20ebook2%20loandscape.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true', 'Book 2'], ['https://img1.wsimg.com/isteam/ip/928024ef-0d3b-4971-bb3e-704f4527d899/official_id.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true', 'Official ID'], ['https://img1.wsimg.com/isteam/ip/928024ef-0d3b-4971-bb3e-704f4527d899/stickers%202-8c5081a.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true', 'Sticker Pack'], ['https://img1.wsimg.com/isteam/ip/928024ef-0d3b-4971-bb3e-704f4527d899/experiment.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,cg:true', 'Monthly Experiment'], ['https://img1.wsimg.com/isteam/ip/928024ef-0d3b-4971-bb3e-704f4527d899/ba%20logo%20no%20bg%20updated.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:370,cg:true', 'Holographic Paddo'], ['https://img1.wsimg.com/isteam/ip/928024ef-0d3b-4971-bb3e-704f4527d899/better%20atoms%20tm%20logo.png/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365', '']]
+INPUTS []
+===== /edtech
+SYSTEM TIME
+17:29:55
+UPLINK ESTABLISHED
+LAT: 23.09 | LON: 88.21
+AUDIO: OFF
+BA
+ACADEMY
+SYS.VER.4.2
+❖
+COMMAND
+DASHBOARD
+⚡
+REACTOR
+LANDER SIM
+🪐
+ORRERY
+SOLAR SYSTEM
+⌬
+MATTER
+DATABASE
+◈
+ARCHIVES
+CLASSIFIED
+CADET_01
+LVL 1
+0 / 100 XP
+INCOMING TRANSMISSION
+WELCOME
+COMMANDER
+
+Sector 7 sensors indicate a fluctuation in the reactor core. Immediate manual calibration required.
+> STATUS: CRITICAL
+
+INITIATE LAUNCH
+CONSULT AI
+DAILY MISSIONS
+DAILY SCORE: 0 XP
+REFRESH IN: 14H 20M
+○
+Access Matter Database
++10 XP
+○
+Land Safely (Any Planet)
++50 XP
+○
+Study 'Black Holes' Archive
++20 XP
+⌬
+MATTER DATABASE
+118
+◈
+ARCHIVES
+12
+🪐
+PLANETS
+9
+👽
+LINKS []
+IMGS []
+INPUTS [['range', ''], ['text', 'SEARCH DATABASE...'], ['text', 'QUERY...']]
+===== /restaraunt
+💰
+FUNDS RECOVERY
+PADDO FOUND: 0/5
+🪐
+BETTER ATOMS
+
+Project: Bengaluru
+
+⚠️ GRAVITY: ON
+🎉 PARTY PROTOCOL
+🎈
+KIDS EAT FREE ON MARS-DAYS!
+SPACE & TIME
+RESTAURANT
+
+We are looking for a place to crash (literally) in Bangalore.
+But first, we need to find Paddo—he has the startup capital!
+
+SUGGEST LOCATION
+START SCAN
+⬇
+🚀
+WE HAVE THE TECH.
+WE NEED THE PIN CODE.
+
+Captain Zog is currently orbiting over the Silk Board junction (big mistake). He's looking for a plot in Indiranagar, Koramangala, or Whitefield large enough to park a Class-5 Cruiser.
+
+However, there's a problem. Paddo, our alien financier, wandered off to try a "Masala Dosa" and took the Galactic Credits with him. We need your help to find him and fund this project!
+
+📍
+BANGALORE
+💰
+FUNDS LOST
+🚧
+COMING SOON
+DINER
+Future Site?
+Rendering of Indiranagar Branch
+✨
+Missing:PADDO
+Last seen with funding bag
+💰
+INVESTOR PRIORITY
+FIND PADDO & THE FUNDS
+
+Help us locate the alien financier hiding on this page to unlock the launch capital!
+
+DESIGN
+DESIGN OUR STAFF
+🎨 Change Color
+👀 Change Eyes
+👄 Change Mouth
+📡 Change Antenna
+MISSION: RECOVER ASSETS
+
+Paddo and his crew are hiding with the money bags. Find 5 of them on this page to trigger the "Investment Secure" protocol!
+
+INVESTOR PERKS
+
+Founders get free "Moon Pies" for life and a reserved parking spot for their spaceship (or scooter) in Indiranagar.
+
+CONCEPT MENU
+
+This is what we *will* serve once we find a kitchen in Bangalore.
+
+🍔
+Jupiter Burger
+25 Paddo ₹
+
+3 patties, moon cheese, gravity sauce.
+
+🍕
+Galaxy Pizza
+22 Paddo ₹
+
+Pepperoni stars on a comet crust.
+
+☄️
+Junior Asteroids
+12 Paddo ₹
+
+Chicken nuggets shaped like meteors. Comes with slime dip.
+
+⭐ JUNIOR CADET FAVORITE
+🥤
+Alien Slime Shake
+10 Paddo ₹
+
+Lime and vanilla. Glows in the dark.
+
+🍗
+Magma Wings
+19 Paddo ₹
+
+Hotter than the sun. Warning.
+
+🍦
+Zero-G Sundae
+14 Paddo ₹
+
+Floating ice cream. Catch it if you can!
+
+⭐ JUNIOR CADET FAVORITE
+🍔
+JUPITER BURGER
+25 Paddo ₹
+
+3 patties, moon cheese, gravity sauce.
+
+PRE-ORDER NOW
+🚧
+42
+LOCATIONS SCOUTED
+🚗
+∞
+SILK BOARD TRAFFIC
+💸
+1M
+FUNDS MISSING (Paddo₹)
+🤝
+0
+LOCATIONS FINALIZED
+ASK THE ALIEN ORACLE
+🔮
+PADDO SAYS...
+
+"Click me for galactic financial advice!"
+
+(Disclaimer:Paddo is not a registered financial advisor)
+
+BETTER ATOMS
+
+© 2055. COMING SOON TO BENGALURU.
+
+👽
+💰
+💸
+🛸
+🪐
+LINKS [['🪐\nBETTER ATOMS\n\nProject: Bengaluru', '#']]
+IMGS []
+INPUTS [['text', 'Scout Name'], ['select-one', None], ['textarea', 'Why here? (e.g. Good parking, nice trees)']]
+===== /privacy-%26-policies
+LLP ACTIVE
+BETTER
+ATOMS
+DOC REFERENCE
+CORPORATE PROTOCOL
+© Better Atoms Technologies LLP
+MODULES
+PRIVACY
+PRIV-2026
+GUIDELINES
+GUID-2026
+CORPORATE
+CORP-LLP
+CONTACT
+COMM-EXT
+READING: PRIV-2026
+SECURE CONNECTION
+PRIVACY PROTOCOL
+
+// Commitment to Data Protection & Transparency
+
+01
+INTRODUCTION
+
+At Better Atoms, we value your trust. This Privacy Policy explains how we collect, use, and protect information. Our approach is designed to be transparent, responsible, and aligned with modern digital standards and Indian data protection regulations.
+
+02
+INFORMATION WE COLLECT
+
+We may collect personal information when you visit our website, contact us, or subscribe to updates. This includes your name, email address, and basic technical usage data (browser type, pages visited). We ensure minimal data collection principles are followed.
+
+03
+COOKIES & ANALYTICS
+
+Our website may use cookies or similar technologies to enhance user experience and understand visitor behavior. You maintain full control to disable cookies through your browser settings at any time.
+
+ENCRYPTED
+VERIFIED SOURCE
+LINKS [['Website\n                                    www.betteratoms.com', 'https://www.betteratoms.com'], ['Official Email\n                                    contactus@betteratoms.com', 'mailto:contactus@betteratoms.com']]
+IMGS []
+INPUTS []
