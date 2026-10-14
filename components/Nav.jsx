@@ -1,4 +1,5 @@
 'use client';
+import { a } from '@/components/asset';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState, useEffect, useRef } from 'react';
@@ -26,7 +27,7 @@ export default function Nav() {
       <nav aria-label="Main" className="bg-night/90 backdrop-blur-md border-b border-white/10">
         <div className="mx-auto max-w-7xl flex items-center justify-between px-4 py-2.5">
           <Link href="/" className="flex items-center gap-2" aria-label="Better Atoms home">
-            <img src="/img/logo-tm.webp" alt="Better Atoms logo" width="44" height="44" className="rounded-full ring-2 ring-white/70" />
+            <img src={a("/img/logo-tm.webp")} alt="Better Atoms logo" width="44" height="44" className="rounded-full ring-2 ring-white/70" />
             <span className="font-display text-xl font-bold text-white hidden sm:inline">Better Atoms</span>
           </Link>
           <ul className="hidden lg:flex items-center gap-1">

@@ -1,4 +1,5 @@
 'use client';
+import { a } from '@/components/asset';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 const grads = ['from-[#FFE7D1] to-[#FFC9A8]', 'from-[#D9F7FF] to-[#A6E6FA]', 'from-[#FFE0F0] to-[#FFB8DA]', 'from-[#E0FFE0] to-[#B5F0B9]'];
@@ -15,7 +16,7 @@ export default function BlogList({ posts }) {
       {shown.map((p, i) => (
         <li key={p.slug} className="clay-card overflow-hidden flex flex-col">
           <Link href={`/blog-atoms/f/${p.slug}/`} className="flex flex-col h-full group">
-            {p.image ? <img src={`/img/${p.image}-sm.webp`} alt="" width="600" height="340" loading={i < 3 ? "eager" : "lazy"} fetchPriority={i === 0 ? "high" : undefined} className="h-48 w-full object-cover" /> : <div aria-hidden className={`h-48 bg-gradient-to-br ${grads[i % 4]} grid place-items-center text-6xl`}>⚛️</div>}
+            {p.image ? <img src={a(`/img/${p.image}-sm.webp`)} alt="" width="600" height="340" loading={i < 3 ? "eager" : "lazy"} fetchPriority={i === 0 ? "high" : undefined} className="h-48 w-full object-cover" /> : <div aria-hidden className={`h-48 bg-gradient-to-br ${grads[i % 4]} grid place-items-center text-6xl`}>⚛️</div>}
             <div className="p-6 flex flex-col flex-1"><p className="text-sm font-semibold text-ink/70">{p.date} | {p.cats.join(', ')}</p><h2 className="mt-2 text-xl font-bold group-hover:text-coral">{p.title}</h2><p className="mt-2 line-clamp-3 text-ink/80">{p.excerpt}</p><span className="mt-auto pt-4 font-display font-semibold text-coral">Continue Reading →</span></div>
           </Link>
         </li>))}

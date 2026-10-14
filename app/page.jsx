@@ -1,3 +1,4 @@
+import { a } from '@/components/asset';
 import Link from 'next/link';
 import Hero3D from '@/components/Hero3D';
 import Blobs from '@/components/Blobs';
@@ -45,8 +46,8 @@ export default function Home() {
             <p>Built by developers, educators, and caterers, Better Atoms is a growing community driven by curiosity, innovation, and sustainability. Together, we are creating an ecosystem where space education, renewable ideas, and creative thinking come together to prepare learners for the future—on Earth and beyond.</p>
           </Reveal>
           <Reveal delay={0.1} className="grid gap-5">
-            <img src="/img/logo.webp" alt="Logo with bold white text 'BETTER ATOMS' on a black circular background." width="365" height="365" loading="lazy" className="w-56 mx-auto rounded-full shadow-soft floaty" />
-            <img src="/img/molecule.webp" alt="Colorful molecular model on a reflective black surface." width="600" height="400" loading="lazy" className="rounded-blob shadow-soft w-full h-auto" />
+            <img src={a("/img/logo.webp")} alt="Logo with bold white text 'BETTER ATOMS' on a black circular background." width="365" height="365" loading="lazy" className="w-56 mx-auto rounded-full shadow-soft floaty" />
+            <img src={a("/img/molecule.webp")} alt="Colorful molecular model on a reflective black surface." width="600" height="400" loading="lazy" className="rounded-blob shadow-soft w-full h-auto" />
           </Reveal>
         </div>
       </Section>
@@ -82,7 +83,7 @@ export default function Home() {
 
       <Section id="community" eyebrow="Who we are" title="Our Community" tint="bg-[#F3EAFF]">
         <div className="grid gap-10 lg:grid-cols-[1fr_1.4fr] items-center">
-          <Reveal><img src="/img/games.webp" alt="Better Atoms illustration: kids, robots and sea creatures exploring a colourful world – Learning that feels like an adventure" width="800" height="533" loading="lazy" className="rounded-blob shadow-soft w-full h-auto -rotate-1" /></Reveal>
+          <Reveal><img src={a("/img/games.webp")} alt="Better Atoms illustration: kids, robots and sea creatures exploring a colourful world – Learning that feels like an adventure" width="800" height="533" loading="lazy" className="rounded-blob shadow-soft w-full h-auto -rotate-1" /></Reveal>
           <Reveal delay={0.1} className="text-lg leading-8 space-y-5">
             <p>Better Atoms is built by—and for—a community of developers, educators, and creators who believe learning should be practical, playful, and purposeful.</p>
             <p>As developers, we design interactive systems and simulations that make complex energy concepts intuitive and engaging. As educators, we focus on pedagogy, learning outcomes, and accessibility, ensuring that every experience supports real understanding. As creators, we craft immersive worlds, stories, and hands-on experiences that make STEM education memorable and fun.</p>
@@ -102,7 +103,7 @@ export default function Home() {
             <h2 className="text-3xl md:text-4xl font-bold">Just Launched 🚀 Better Atoms: Paddo and the Trial of Curiosity 📘</h2>
             <div className="mt-6 flex flex-wrap gap-3"><a href={AMAZON_LAUNCH} target="_blank" rel="noopener" className="clay-btn" aria-label="Click Here – get Better Atoms: Paddo and the Trial of Curiosity on Amazon">Click Here – Get the Book</a><Link href="/books/" className="clay-btn ghost">See Books</Link></div>
           </div>
-          <img src="/img/book-cover.webp" alt="Book cover: Paddo – The Trial of Curiosity, The Space Explorer's Handbook, by Aman Singh" width="300" height="450" loading="lazy" className="w-48 mx-auto rounded-2xl shadow-soft rotate-3 floaty" />
+          <img src={a("/img/book-cover.webp")} alt="Book cover: Paddo – The Trial of Curiosity, The Space Explorer's Handbook, by Aman Singh" width="300" height="450" loading="lazy" className="w-48 mx-auto rounded-2xl shadow-soft rotate-3 floaty" />
         </Reveal>
       </section>
     </>

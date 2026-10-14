@@ -1,3 +1,4 @@
+import { a } from '@/components/asset';
 import Link from 'next/link';
 import posts from '@/data/posts.json';
 import Blobs from '@/components/Blobs';
@@ -16,7 +17,7 @@ export default async function Post({ params }) {
       <div aria-hidden className="absolute -bottom-px inset-x-0 h-12 bg-cream" style={{ clipPath: 'ellipse(75% 100% at 50% 100%)' }} />
     </header>
     <div className="mx-auto max-w-3xl px-6 py-12">
-      {p.image && <img src={`/img/${p.image}.webp`} alt={`Illustration for ${p.title}`} width="1200" height="675" className="mb-8 w-full h-auto rounded-blob shadow-soft" />}
+      {p.image && <img src={a(`/img/${p.image}.webp`)} alt={`Illustration for ${p.title}`} width="1200" height="675" className="mb-8 w-full h-auto rounded-blob shadow-soft" />}
       <div className="prose-kid clay-card p-7 md:p-10">{p.body.map((l, i) => isHead(l) && i > 0 ? <h2 key={i}>{l}</h2> : <p key={i}>{linkify(l)}</p>)}</div>
       <aside className="mt-12"><h2 className="font-display text-2xl font-bold">Recent Posts</h2><ul className="mt-4 grid gap-3">{recent.map(r => <li key={r.slug}><Link href={`/blog-atoms/f/${r.slug}/`} className="clay-card block p-5 font-semibold hover:text-coral">{r.title}<span className="block text-sm font-normal text-ink/70">{r.date}</span></Link></li>)}</ul></aside>
     </div>
