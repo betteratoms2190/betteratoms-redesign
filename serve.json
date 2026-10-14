@@ -1,0 +1,20 @@
+{
+ "trailingSlash": true,
+ "redirects": [
+  {
+   "source": "/blog-atoms/f/meet-paddo-the-cute-alien-who’s-crash-landing-into-better-atoms",
+   "destination": "/blog-atoms/f/meet-paddo-the-cute-alien-whos-crash-landing-into-better-atoms/",
+   "type": 301
+  },
+  {
+   "source": "/blog-atoms/f/the-space-explorer’s-handbook",
+   "destination": "/blog-atoms/f/the-space-explorers-handbook/",
+   "type": 301
+  },
+  {
+   "source": "/blog-atoms/f/better-atoms-where-learning-feels-like-an-adventure-🚀",
+   "destination": "/blog-atoms/f/better-atoms-where-learning-feels-like-an-adventure/",
+   "type": 301
+  }
+ ]
+}

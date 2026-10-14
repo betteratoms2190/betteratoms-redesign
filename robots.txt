@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://betteratoms2190.github.io/betteratoms-redesign/sitemap.xml
