@@ -30,7 +30,7 @@ export default function Books() {
     <Section id="crew" eyebrow="Join The Crew" title="Join The Crew">
       <p className="-mt-6 mb-8 text-lg">Access restricted files, download sticker packs, and view Paddo's latest experiments.</p>
       <ul className="grid gap-6 md:grid-cols-3">
-        {crew.map(([t, d, img], i) => (<Reveal as="li" key={t} delay={i * .08} className="clay-card overflow-hidden"><img src={img} alt={t} width="600" height="400" loading="lazy" className="w-full h-48 object-cover" /><div className="p-6"><h3 className="text-xl font-bold">{t}</h3><p className="mt-1">{d}</p><span className="mt-4 inline-block rounded-full bg-cream px-4 py-2 text-sm font-bold text-ink/70" title="Download link not available on the live site">ACCESS FILE › [LINK NEEDED]</span></div></Reveal>))}
+        {crew.map(([t, d, img], i) => (<Reveal as="li" key={t} delay={i * .08} className="clay-card overflow-hidden"><img src={a(img)} alt={t} width="600" height="400" loading="lazy" className="w-full h-48 object-cover" /><div className="p-6"><h3 className="text-xl font-bold">{t}</h3><p className="mt-1">{d}</p><span className="mt-4 inline-block rounded-full bg-cream px-4 py-2 text-sm font-bold text-ink/70" title="Download link not available on the live site">ACCESS FILE › [LINK NEEDED]</span></div></Reveal>))}
       </ul>
       <Reveal className="mt-12 flex flex-col items-center text-center"><img src={a("/img/paddo-holo.webp")} alt="Holographic Paddo" width="370" height="370" loading="lazy" className="w-48 floaty" /><p className="mt-2 font-mono text-sm text-ink/60">HOLOGRAM_FEED_V4.2 · SPARK_AI: “SYSTEMS: OPTIMAL”</p></Reveal>
     </Section>
